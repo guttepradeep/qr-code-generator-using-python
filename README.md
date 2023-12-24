@@ -1,2 +1,2 @@
-# qr-code-generator-using-python
-Streamlined QR code creation using the qrcode library. Users input URLs or text for high-quality QR codes. This script simplifies QR code generation, ensuring accessibility for personal and professional applications.
+Developed a Python-based QR code generator, streamlining the creation of QR codes for various applications. The generator utilizes the qrcode library, allowing users to input data, such as URLs or text, and produces high-quality QR codes. The script provides a simple and efficient solution for generating QR codes, enhancing accessibility and usability for both personal and professional use. make it short and simple
+
